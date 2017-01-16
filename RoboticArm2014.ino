@@ -5,7 +5,7 @@
  *This is also that you have two servos controlling the main shoulder
  *It is given that one servo controls the elbow, wrist, and claw
  *
- *
+ * test. 
  *
  * This will require an Arduino Mega 2560
  * enjoy the code <3
